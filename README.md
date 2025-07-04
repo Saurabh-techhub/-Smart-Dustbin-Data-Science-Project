@@ -52,3 +52,12 @@ pip install pandas matplotlib scikit-learn
 
 # 2. Run the script
 python smart_dustbin.py
+
+🔗 Author Info
+👤 Saurabh Tripathi
+🎓 B.Tech in Computer Science (Data Science) – Lamrin Tech Skills University
+📧 vishnuxsaurabh@gmail.com
+🔗 LinkedIn
+💻 GitHub
+
+
